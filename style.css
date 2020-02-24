@@ -47,13 +47,16 @@ body {
 
 
 /**********************************************
-*** Rule Box
+*** Rules
 **********************************************/
 .ruleBox {
     
     background-color: #fff;
 }
 
+.rule-list {
+    font-weight: 300; color: rgb(238, 237, 237);
+}
 
 
 
