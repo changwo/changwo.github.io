@@ -53,6 +53,8 @@ body {
     
     background-color: #fff;
     opacity: 0.5;
+    font-weight: 300; color: rgb(75, 72, 72);
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.3);
 }
 .ruleTitle {
     background-color: #fff !important;
@@ -63,10 +65,6 @@ body {
     font-weight: 100;
     position: relative;
 }
-.rule-list {
-    font-weight: 300; color: rgb(75, 72, 72);
-}
-
 
 
 
