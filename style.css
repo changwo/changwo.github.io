@@ -226,7 +226,12 @@ i {
 */
 
 ion-icon {
-    font-size: 26px;
-    color: #eb4d4d;
-    height: 30px;
+    color: #EB4D4D;
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 32px;
+    line-height: 1;
+    vertical-align: text-top;
+    margin-top: -4px;
+    transition: margin 0.3s;
   }
