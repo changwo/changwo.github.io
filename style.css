@@ -56,8 +56,12 @@ body {
 }
 .ruleTitle {
     background-color: #fff !important;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 100;
+    position: relative;
 }
 .rule-list {
     font-weight: 300; color: rgb(75, 72, 72);
