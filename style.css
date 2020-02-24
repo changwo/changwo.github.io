@@ -55,7 +55,7 @@ body {
     opacity: 0.5;
 }
 .ruleTitle {
-    background-color: #fff;
+    background-color: #fff !important;
 }
 .rule-list {
     font-weight: 300; color: rgb(75, 72, 72);
