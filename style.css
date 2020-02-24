@@ -56,6 +56,8 @@ body {
 }
 .ruleTitle {
     background-color: #fff !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 .rule-list {
     font-weight: 300; color: rgb(75, 72, 72);
