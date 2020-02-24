@@ -52,10 +52,13 @@ body {
 .ruleBox {
     
     background-color: #fff;
+    opacity: 0.5;
 }
-
+.ruleTitle {
+    background-color: #fff;
+}
 .rule-list {
-    font-weight: 300; color: rgb(238, 237, 237);
+    font-weight: 300; color: rgb(75, 72, 72);
 }
 
 
