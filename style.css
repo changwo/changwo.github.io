@@ -235,3 +235,26 @@ ion-icon {
     margin-top: -4px;
     transition: margin 0.3s;
   }
+
+ion-icon {
+    position: absolute;
+    width: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #555;
+    background: none;
+    border: none;
+    font-family: Lato;
+    font-size: 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 300;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+ion-icon:hover { font-weight: 600; }
+ion-icon:hover i { margin-right: 20px; }
+
+ion-icon:focus {
+    outline: none;
+}
