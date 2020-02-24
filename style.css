@@ -180,13 +180,13 @@ button {
 }
 
 button:hover { font-weight: 600; }
-button:hover i { margin-right: 20px; }
+button:hover ion-icon { margin-right: 20px; }
 
 button:focus {
     outline: none;
 }
 
-ion-icon {
+i {
     color: #EB4D4D;
     display: inline-block;
     margin-right: 15px;
