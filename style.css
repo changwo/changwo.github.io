@@ -226,6 +226,7 @@ i {
 */
 
 ion-icon {
-    font-size: 64px;
-    color: RED;
+    font-size: 26px;
+    color: #eb4d4d;
+    height: 30px;
   }
