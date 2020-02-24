@@ -61,7 +61,7 @@ body {
     box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.3);
     font-weight: 400;
     color: rgb(0, 0, 0);
-    text-align: -webkit-center;
+    text-align:center;
     
 }
 
