@@ -55,7 +55,7 @@ body {
     opacity: 0.5;
     box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.3);
 }
-.ruleBox .ruleText {
+.ruleText .ruleBox  {
     font-weight: 300; color: rgb(255, 255, 255);
     text-align: center;
     opacity: 1;
