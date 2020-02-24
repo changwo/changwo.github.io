@@ -58,6 +58,7 @@ body {
  .ruleText {
     font-weight: 300; color: rgb(255, 255, 255);
     text-align: center;
+    opacity: 1;
  }
 .ruleTitle {
     background-color: #fff;
