@@ -153,7 +153,23 @@ body {
     margin: 0 auto;
     padding: 12px;
     text-align: center;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 4px #999;
 }
+
+.submit:hover {
+    background-color: rgb(119, 27, 27);
+
+}
+
+.submit:active {
+    background-color: rgb(119, 27, 27);
+    box-shadow: 0 2px #666;
+    transform: translateY(2px);
+}
+
 
 
 
@@ -180,22 +196,12 @@ button {
 }
 
 button:hover { font-weight: 600; }
-button:hover i { margin-right: 20px; }
+button:hover ion-icon { margin-right: 20px; }
 
 button:focus {
     outline: none;
 }
 
-i {
-    color: #EB4D4D;
-    display: inline-block;
-    margin-right: 15px;
-    font-size: 32px;
-    line-height: 1;
-    vertical-align: text-top;
-    margin-top: -4px;
-    transition: margin 0.3s;
-}
 
 .btn-new { top: 45px;}
 .btn-roll { top: 403px;}
@@ -220,3 +226,19 @@ i {
 
 .winner { background-color: #f7f7f7; }
 .winner .player-name { font-weight: 300; color: #EB4D4D; }
+
+/************************************************
+        ICONS
+*/
+
+ion-icon {
+    color: #EB4D4D;
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 32px;
+    line-height: 1;
+    vertical-align: text-top;
+    margin-top: -4px;
+    transition: margin 0.3s;
+  }
+
