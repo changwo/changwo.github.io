@@ -1,4 +1,4 @@
-# Habib-Pig-Game
+# Habib-Dice-Game
 Fully functional Pig game
 Rules are as follows:
 
