@@ -1,5 +1,5 @@
 # Habib-Dice-Game
-Fully functional Pig game
+Fully functional Dice game
 Rules are as follows:
 
 - The game has 2 players, playing in rounds
